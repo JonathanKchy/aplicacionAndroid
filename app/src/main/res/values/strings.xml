@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IotSensores</string>
+    <string name="Menu">Menu Principal</string>
+    <string name="Acelerometro">acelerometro</string>
+    <string name="Luz">luz</string>
+    <string name="Sonido">sonido</string>
+    <string name="Magnetometro">magnetometro</string>
+</resources>
